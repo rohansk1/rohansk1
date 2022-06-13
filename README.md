@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rohansk1
 - 👀 I’m interested in quantum computing
-- 🌱 I’m currently learning about variational quantum algorithms, full-stack optimisation for quantum computers, quantum programming languages, and computer architecture
+- 🌱 I’m currently learning about variational quantum algorithms, quantum machine learning, and full-stack optimisation for quantum computers
 - 📫 How to reach me: rohansk@uchicago.edu
 
 <!---
