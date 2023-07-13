@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @rohansk1
-- 👀 I’m interested in quantum computing
-- 🌱 I’m currently learning about architectures and algorithms for quantum computers
-- 📫 How to reach me: rohansk@uchicago.edu
+- 👀 I’m interested in practical quantum computing
+- 📫 How to reach me: rohan.s.kumar@yale.edu
 
 <!---
 rohansk1/rohansk1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
