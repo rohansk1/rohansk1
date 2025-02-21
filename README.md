@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rohansk1
-- 👀 I’m interested in practical quantum computing
+- 👀 I’m interested in architectures and algorithms for practical quantum computing
 - 📫 How to reach me: rohan.s.kumar@yale.edu
 
 <!---
